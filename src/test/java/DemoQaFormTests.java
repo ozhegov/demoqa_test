@@ -56,7 +56,5 @@ public class DemoQaFormTests {
               text("Los Angeles, 92 Groove st 9B"),
               text("NCR Delhi")
       );
-
-      holdBrowserOpen = true;
     }
 }
